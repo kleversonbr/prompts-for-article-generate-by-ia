@@ -3,7 +3,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-📕<a href="https://www.dio.me/articles/prepare-se-para-o-proximo-nivel-como-elaborar-um-pdi-que-impulsione-sua-carreira> Clique aqui para ler o artigo </a>
+📕[Clique aqui para ler o artigo](https://www.dio.me/articles/prepare-se-para-o-proximo-nivel-como-elaborar-um-pdi-que-impulsione-sua-carreira)
 
 ## 💻 Tecnologias utilizadas no projeto
 
